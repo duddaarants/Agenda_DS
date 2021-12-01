@@ -1,0 +1,25 @@
+layout nulo
+
+Splash_GUI.java	\Jframe
+Login.java	\Jframe
+
+Criar pacotes java:
+      Controler
+      View
+      Image
+      Model
+_____________________
+no Splash_GUI:
+
+colocar painel 
+barra de progresso - variavel = progresso
+label - editar texto"nulo" - variavel = mensagem
+
+
+
+sleep(60) = velocidade milisegundos
+thread(movimentação do código)
+ progress.setValue(i)
+    \->barra de progresso
+for de 1 a 101 (as mensagens vão mudando)
+driver_conexao.carregardriver(); = testar o banco de dados
